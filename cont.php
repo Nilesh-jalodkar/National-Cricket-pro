@@ -40,13 +40,13 @@ if ($result) {
 
 
  //email notification OR mail function
-$to ="hacker93master@gmail.com";
+$to ="Nilesh1o1j@gmail.com";
 
 $subject = "NOTIFICATION!!! NEW ENTRY BY $name ";
 
 $message = 'The subject is ' . $subject_s . ' And this Feedback form is filled by ' . $email;
 
-$from = "Nayan.zanwar@gmail.com";
+$from = "Nilesh.jalodkar940@gmail.com";
 
 $headers = "From : $from";
 
